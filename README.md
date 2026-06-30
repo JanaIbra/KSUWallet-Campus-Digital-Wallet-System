@@ -8,7 +8,7 @@ Technologies:
 - SQLite
   
 My Contribution:
-Developed the Sign Up Window.
-Developed the Main Window.
-Integrated the user interface with the database.
-Collaborated with the team to implement and test the application
+- Developed the Sign Up Window.
+- Developed the Main Window.
+- Integrated the user interface with the database.
+- Collaborated with the team to implement and test the application.
